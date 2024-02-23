@@ -15,6 +15,6 @@ r = x % 2: sera lo que sacara el modulo de numeros entre 2
 r == 0 sera lo que utilizara para calcular si el numero es par o impar
 
 # diseño
-![Diagrama de flujo](Diagrama.png"Diagrama de flujo")
+![Diagrama de flujo](diagrama.png "Diagrama de flujo")
 
 # construccion
